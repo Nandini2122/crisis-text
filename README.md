@@ -233,23 +233,6 @@ http://127.0.0.1:5000
 - Project information, NLP techniques, model performance, team credits
 
 ---
-
-## 👥 Team
-
-| Role | Name |
-|---|---|
-| 👩‍💻 Development & System Implementation | Nandini Singh |
-| 👩‍🔬 Data Collection & Research | Sakshi Sonawane |
-| 👩‍📚 Documentation & Reporting | Vaishnavi Pawar |
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 🙏 Acknowledgements
 
 - National Disaster Management Authority (NDMA) India
